@@ -25,7 +25,8 @@
     "start": "npm-run-all build:tailwind --parallel watch:tailwind start:react",
     "start:react": "react-scripts start",
     "prebuild": "run-s build:tailwind",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
