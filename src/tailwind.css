@@ -59,9 +59,12 @@
   .bottom {
     transform: translate(70%, 55%);
   }
-
-  #root {
+  html,
+  body {
     overflow: hidden;
+  }
+  body {
+    position: relative;
   }
 }
 
