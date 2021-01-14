@@ -1,6 +1,6 @@
 # Frontend Mentors Profile Card Component
 
-A react app as a solution for frontend mentors [profile card challenge.](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+A react app as a solution for frontend mentors [profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) challenge.
 
 Used [tailwindcss](https://tailwindcss.com/) as a css framework.
 
